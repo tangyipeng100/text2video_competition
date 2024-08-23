@@ -50,7 +50,8 @@
 ## 致谢
 感谢 上海人工智能实验室组织的书生:浦语大模型实战营学习活动 和 提供的强大算力支持~  
 感谢 OpenXLab 对项目部署的算力支持  
-感谢 浦语小助手 对项目的支持  
+感谢 浦语小助手 对项目的支持    
+项目中所涉及的内容包括:  
 [InternLM](https://github.com/InternLM/InternLM)  
 [Tutorial](https://github.com/InternLM/Tutorial)
 
