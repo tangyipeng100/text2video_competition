@@ -47,5 +47,12 @@
 
 评测部分直接通过线上平台对模型的生成效果进行打分。该评测过程涵盖了模型生成视频的文本相关性、视频质量以及生成的一致性等多个指标。
 
+## 致谢
+感谢 上海人工智能实验室组织的书生:浦语大模型实战营学习活动 和 提供的强大算力支持~  
+感谢 OpenXLab 对项目部署的算力支持  
+感谢 浦语小助手 对项目的支持  
+[InternLM](https://github.com/InternLM/InternLM)  
+[Tutorial](https://github.com/InternLM/Tutorial)
+
 
 
